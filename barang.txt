@@ -1,0 +1,5 @@
+Laptop Asus (Elektronik);8500000.0;10
+Kemeja Flanel (Pakaian);150000.0;20
+Blender Philips (Peralatan RT);450000.0;15
+Buku Sinar Dunia (Alat Tulis);45000.0;50
+Mouse Wireless (Elektronik);185000.0;30
